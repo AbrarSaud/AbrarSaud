@@ -5,7 +5,7 @@
 My name is Abrar Saud ..<br>
 <br> Software Developer [Web - Flutter] || Computer Science Fresh Graduate 👩‍💻
 <br>
-<br>Currently I am on my journey to learn Flutter!⏳⚡ <br>
+<br>Currently I am on my journey to learn Flutter! <br>
 
 <br>
 
