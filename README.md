@@ -11,9 +11,9 @@
 <br>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
- 
- <a href="www.linkedin.com/in/abrar-saud">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" title="Ikhsan Satriadi" />
+
+ <a href="https://www.linkedin.com/in/abrar-saud-1861ba247/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" title="Abrar Sau" />
   </a>
    <a href="mailto:alotaibi.s.abrar@gmail.com">
     <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" title="alotaibi.s.abrar@gmail.com" />
