@@ -4,9 +4,10 @@
   I'm Abrar Saud 🦋
   </h1>
  
-<h3 align="center">An enthusiastic developer learning Flutter</h3>
--🎓I’m Computer Science graduate.<br>
--🌱 Currently I am on my journey to learn Flutter!
+<h3 align="center">Mobile App developer 📱 </h3>
+-🎓 I’m Computer Science graduate.<br>
+-🤓 Always learning new things!<br>
+-💙 My favorite framework : Flutter
 
 <br>
 <h2 align="center">Connect with me:</h2>
